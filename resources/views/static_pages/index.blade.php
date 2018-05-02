@@ -7,7 +7,7 @@
             <a href="www.bilibili.com">哦呦</a>
         </p>
         <p>
-            <a class="btn btn-lg btn-success" href="{{route('signup')}}">马上注册</a>
+            <a class="btn btn-lg btn-success" href="{{route('users.create')}}">马上注册</a>
         </p>
     </div>
 @stop
